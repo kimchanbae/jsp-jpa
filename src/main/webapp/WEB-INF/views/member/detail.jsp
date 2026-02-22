@@ -4,7 +4,7 @@
 
 <script type="text/javascript">
 	$(document).ready(function() {
-		$("#id").focus();
+		$("#id").focus(); 
 
 		const sex = "${member.sex}";
 		$("#sex").val(sex);
